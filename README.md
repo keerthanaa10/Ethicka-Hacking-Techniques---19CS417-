@@ -1,5 +1,6 @@
 # Ethicka-Hacking-Techniques---19CS417-
-Ethicka Hacking Techniques - 19CS417 
+Name: Keerthana R
+Register No: 212221040081
 # Echoserver
 Echo server and client using python socket
 
