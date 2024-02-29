@@ -58,11 +58,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 **server.py**
 ```
 ![ETH_exp1a1](https://github.com/keerthanaa10/Ethicka-Hacking-Techniques---19CS417-/assets/132996371/e472ae10-b856-465d-97d3-2df820c8529d)
-
+```
 **client.py**
 ```
 ![ETH_exp1b1](https://github.com/keerthanaa10/Ethicka-Hacking-Techniques---19CS417-/assets/132996371/6ef3d8a8-8723-4d79-82bb-089507b9f0da)
-
+```
 
 ## RESULT:
 The program is executed successfully
